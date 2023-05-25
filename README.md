@@ -1,1 +1,1 @@
-# slotmachine
+# slotmachine(spin the wheel)
